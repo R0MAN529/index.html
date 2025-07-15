@@ -1,0 +1,81 @@
+<html>
+<title>"Історія Лололошки"</title>
+
+<body style="background:#5caff7;font-family:sans-serif;">
+    <header style="background:#4093db;">
+        <p style="text-align:center;"><img src="https://i.pinimg.com/736x/f7/9a/14/f79a1465b9ae3637b2ab86a6c35bec27.jpg"width="100px" height="100px"style="border:10px solid black;"/>
+        </p>
+        <h1 style="font-size:40px;color:blue;text-align:center;">"Історія Лололошки"</h1>
+    </header>
+    <main>
+        <h1 style="font-size:50px;text-align:center;">Історія Романа Фільченкова як блогера</h1>
+        <h2 style="font-size:40px;text-align:center;">Трохи біографії</h2>
+        <p style="text-align:center;"><img src="https://sun1-88.userapi.com/s/v1/ig2/cYZ9Bb-UjuHVinpPZLEtqwEWcv7GhVCIMjAmS6t1r1OhAQZoCeOhmIVPIgi-Bw2qJ9cfjK-2P0l5992vXP4mIW4j.jpg?quality=95&crop=443,757,1278,1278&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&cs=240x240"style="border:10px solid #656f78;" />
+        </p>
+        <p style="font-size:20px;">Справжнє ім’я — Роман Фільченков, народився 17 квітня 1998 року </p>
+        <h2 style="font-size:40px;text-align:center;">Історія початку своєї кар'єри</h2>
+        <p style="font-size:20px;">Створив канал на YouTube ще в 2012 році, і вже у вересні 2013-го він перетнув
+            позначку 1 млн підписників </p>
+        <p style="text-align:center;"><img src="https://i.pinimg.com/736x/bc/89/39/bc893942133040ee6e69a7fd15f9a551.jpg" width="450px" height="250px"style="border:10px solid #656f78;"/>
+        </p>
+
+        <h2 style="font-size:40px;text-align:center;">Одна з його рубрик</h2>
+        <p style="font-size:20px;">Це є дуже цікава рубрика як "Серіальні сезони (сюжетні арки)"</p>
+        <table style="border:10px solid #656f78;background-color:white;font-size:20px;margin: 0 auto">
+            <tr style="background-color:#4093db">
+                <td>Назва сезону</td>
+                <td>Початок та кінець</td>
+                <td>кількість серій</td>
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Нове Покоління </td>
+                <td>19.03.2021 – 04.11.2021</td>
+                <td style="background-color:#84a4bf">127</td>
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Гра Бога</td>
+                <td>05.11.2021 – 18.04.2022</td>
+                <td style="background-color:#84a4bf">89</td>
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Ідеальний Світ</td>
+                <td>29.04.2022 – 30.12.2022</td>
+                <td style="background-color:#84a4bf">135</td>
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Голос Часу</td>
+                <td>06.01.2023 – 06.07.2023</td>
+                <td style="background-color:#84a4bf">100</td>
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Тринадцять Вогнів</td>
+                <td>24.07.2023 – 18.12.2023</td>
+                <td style="background-color:#84a4bf">85</td>
+
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Остання Реальність</td>
+                <td>12.01.2024 – 25.07.2024</td>
+                <td style="background-color:#84a4bf">107</td>
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Серце Всесвіту</td>
+                <td>23.08.2024 – 13.12.2024</td>
+                <td style="background-color:#84a4bf">60</td>
+            </tr>
+            <tr>
+                <td style="background-color:#4093db">Точка Неповернення</td>
+                <td>13.01.2025 — триває</td>
+                <td style="background-color:#84a4bf">86</td>
+            </tr>
+        </table>
+        <p style="font-size:20px;">Зараз його аудиторія налічує понад 7,36 млн підписників, основний контент – стріми й
+            летсплеї з Minecraf</p>
+    </main>
+    <footer style="background:#4093db;">
+        <p style="font-size:20px;text-align:center;"> <a href="https://www.youtube.com/@MrLololoshka">Ютуб канал
+                Лололошки </a></p>
+    </footer>
+</body>
+
+</html>
